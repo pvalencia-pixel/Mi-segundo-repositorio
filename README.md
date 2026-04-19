@@ -6,3 +6,4 @@ perfecto
 paulina
 trabajo 
 estudio
+ataque
