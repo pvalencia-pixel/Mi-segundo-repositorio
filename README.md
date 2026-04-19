@@ -5,3 +5,4 @@ angel
 perfecto 
 paulina
 trabajo 
+estudio
